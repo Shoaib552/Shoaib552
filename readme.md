@@ -56,19 +56,11 @@ I am a passionate developer who bridges the gap between **functional code** and 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoaib552&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoaib552&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shoaib552&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib552&theme=tokyonight&hide_border=true" alt="shoaib552 streak" />
+  <img src="https://streak-stats.demolab.com?user=shoaib552&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache=1" alt="shoaib552 streak" />
 </p>
-
----
----
-
-<div align="center">
-  <sub>Built with ❤️ by Shoaib. Total Profile Views:</sub><br/>
-  <img src="https://komarev.com/ghpvc/?username=shoaib552&color=blue" alt="shoaib552" />
-</div>
