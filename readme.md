@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [vrddhiminnovations](https://vrddhiminnovations.com/)
 
-- 🌱 I’m currently learning **bootstrap , django react, mern,**
+- 🌱 I’m currently learning **bootstrap , django react, typescript, mern,**
 
 - 👯 I’m looking to collaborate on [तापमान विश्लेषक](https://tapmaan-vishleshak.netlify.app/)
 
