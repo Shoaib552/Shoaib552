@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Shoaib!
+# 👋 Heyaaaaaaaaaaa, I'm Shoaib!
 ### 🚀 Full Stack Developer | 🎨 UI/UX Designer | 💻 Open Source Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Designing+user-centric+experiences;MERN+Stack+%2B+Django+Expert" alt="Typing SVG" />
