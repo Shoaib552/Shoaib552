@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Designing+user-centric+experiences;MERN+Stack+%2B+Django+Expert" alt="Typing SVG" />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shoaib552&color=blue" />
 </p>
