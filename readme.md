@@ -19,7 +19,7 @@
 </div>
 
 ## 📖 About Me
-I am a passionate developer who bridges the gap between **functional code** and **aesthetic design**. With **5+ years of coding experience** and 2 years** at [Vrddhim Innovations](https://vrddhiminnovations.com/) as a **Full Stack Developer & UI/UX Designer**, I create scalable digital solutions that marry performance with beautiful user experiences.
+I am a passionate developer who bridges the gap between **functional code** and **aesthetic design**. With **5+ years of coding experience** and 2 years at [Vrddhim Innovations](https://vrddhiminnovations.com/) as a **Full Stack Developer & UI/UX Designer**, I create scalable digital solutions that marry performance with beautiful user experiences.
 
 - 🔭 **Working on:** Improving [Vrddhim Innovations](https://vrddhiminnovations.com/) ecosystem.
 - 🌱 **Learning:** Deep diving into **MERN Stack, TypeScript, and Django**.
