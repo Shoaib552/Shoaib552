@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shoaib552&color=blue" />
+  <img src="https://img.shields.io/badge/Profile%20Views-15956-blue" />
 </p>
 
 # 👋 Heyaaaaaaa, I'm Shoaib!
