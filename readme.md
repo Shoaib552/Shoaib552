@@ -24,7 +24,7 @@ I am a passionate developer who bridges the gap between **functional code** and 
 - 🔭 **Working on:** Improving [Vrddhim Innovations](https://vrddhiminnovations.com/) ecosystem.
 - 🌱 **Learning:** Deep diving into **MERN Stack, TypeScript, and Django**.
 - 👯 **Collaboration:** Open to contributing to [Tapmaan Vishleshak](https://tapmaan-vishleshak.netlify.app/).
-- 🏗️ **In Progress:** Polishing my [Fitness Site](https://shoaib-fitness-d98c28.netlify.app/) project.
+- 🏗️ **In Progress:** Polishing my [HRMS PORTAL](https://hrms-lite-ten-pied.vercel.app/) project.
 - 🎮 **Hobbies:** Gaming enthusiast & Calisthenics practitioner
 - 💡 **2025 Goals:** Mastering cloud architecture, contributing to major open source projects, and building production-ready SaaS applications
 
