@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-15972-blue" />
+  <img src="https://img.shields.io/badge/Profile%20Views-15975-blue" />
 </p>
 
 # 👋 Heyaaaaaaa, I'm Shoaib!
