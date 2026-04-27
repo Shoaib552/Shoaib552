@@ -70,7 +70,7 @@ I am a passionate developer who bridges the gap between **functional code** and 
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoaib552&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="shoaib552 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shoaib552&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="shoaib552 trophies" />
 </p>
 
 ---
