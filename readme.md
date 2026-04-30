@@ -25,6 +25,7 @@ I am a passionate developer who bridges the gap between **functional code** and 
 - 🌱 **Learning:** Deep diving into **MERN Stack, TypeScript, and Django**.
 - 👯 **Collaboration:** Open to contributing to [Tapmaan Vishleshak](https://tapmaan-vishleshak.netlify.app/).
 - 🏗️ **In Progress:** Polishing my [HRMS PORTAL](https://hrms-lite-ten-pied.vercel.app/) project.
+- 🎾 **Project:** Working on [Paddle Match](https://your-link-here.com) – a platform for players to connect and play matches.
 - 🎮 **Hobbies:** Gaming enthusiast & Calisthenics practitioner
 - 💡 **2025 Goals:** Mastering cloud architecture, contributing to major open source projects, and building production-ready SaaS applications
 
